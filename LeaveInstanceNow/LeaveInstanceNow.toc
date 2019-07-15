@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: Leave Instance Now
+## Author: Restofurryan
+## Version: 8.2.001
+## https://github.com/restofurryan88/LeaveInstanceNowWowAddon
+
+main.lua
