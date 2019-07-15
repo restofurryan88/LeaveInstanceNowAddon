@@ -1,4 +1,4 @@
-# LeaveInstanceNowWowAddon
+# LeaveInstanceNowAddon
 Game Version: 8.2 (BfA)
 
 For those that are soloing and need to leave the instance in a hurry, this is what you need. This addon will help you list a group and so you can leave it and be teleported out of an instance.
